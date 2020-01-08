@@ -2,6 +2,7 @@
 
 ## Deltaker
 - Kyle
+-Emil André
 
 ## Status
 
