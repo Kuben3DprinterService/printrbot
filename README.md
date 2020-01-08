@@ -8,5 +8,6 @@
 ## Specifikasjoner
 
 ## Mangende deler
+-Mangler beskyttelse på LED-displayen
 
 ## Ting som må fikses
