@@ -1,7 +1,7 @@
 # Printrbot 3D printer
 
 ## Deltaker
-- skriv navn her
+- Kyle
 
 ## Status
 
