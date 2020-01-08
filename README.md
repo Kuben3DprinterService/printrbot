@@ -3,7 +3,8 @@
 ## Deltaker
 - Kyle
 - Patrick
--Emil André
+- Emil André
+- Isak
 
 =======
 
