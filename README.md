@@ -3,7 +3,9 @@
 ## Deltaker
 - Kyle
 - Patrick
--Emil André
+- Emil André
+- Isak
+
 
 
 =======
@@ -14,5 +16,6 @@
 ## Specifikasjoner
 
 ## Mangende deler
+-Mangler beskyttelse på LED-displayen
 
 ## Ting som må fikses
