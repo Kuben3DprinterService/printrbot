@@ -2,7 +2,7 @@
 
 ## Deltaker
 - Kyle
-
+- Patrick
 ## Status
 
 ## Specifikasjoner
