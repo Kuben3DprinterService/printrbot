@@ -23,6 +23,9 @@ printer bed er 200 X 200mm ca
 
 vi instiller den på 150 X 150mm
 
+Maks høyde er satt til 190mm
+
+
 
 
 ## Mangende deler
