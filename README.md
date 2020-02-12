@@ -16,6 +16,11 @@
 ## Status
 
 ## Specifikasjoner
+Estruder kan gå 450mm maks
+printer bed er 200*200mm ca
+vi instiller den på 150*150mm
+
+
 
 ## Mangende deler
 -Mangler beskyttelse på LED-displayen
