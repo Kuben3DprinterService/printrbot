@@ -27,6 +27,7 @@ Maks høyde er satt til 190mm.
 .
 :-)
 ()............)S
+::::::
 
 
 ## Mangende deler
