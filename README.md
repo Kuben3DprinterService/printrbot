@@ -24,10 +24,23 @@ printer bed er 200 X 200mm ca.
 vi instiller den på 150 X 150mm.
 
 Maks høyde er satt til 190mm.
+
 .
+
 :-)
+
 ()............)S
+
 ::::::
+
+()............)
+
+Jeg er inne på notepadd
+
+<<<<<<< HEAD
+=======
+
+>>>>>>> 750ee32458b62ec0eea7888cdc222ff4086cc8dd
 
 
 ## Mangende deler
