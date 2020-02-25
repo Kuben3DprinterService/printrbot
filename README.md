@@ -28,15 +28,20 @@ Maks høyde er satt til 190mm.
 .
 
 :-)
-<<<<<<< HEAD
-=======
+
 ()............)S
+
 ::::::
->>>>>>> 750ee32458b62ec0eea7888cdc222ff4086cc8dd
 
 ()............)
 
 Jeg er inne på notepadd
+
+<<<<<<< HEAD
+=======
+
+>>>>>>> 750ee32458b62ec0eea7888cdc222ff4086cc8dd
+
 
 ## Mangende deler
 -Mangler beskyttelse på LED-displayen
