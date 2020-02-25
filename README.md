@@ -17,13 +17,13 @@
 Nettsiden til Printbot finnes ikke lenger, så vi kan ikke få tak i guiden til printrbot.
 
 ## Specifikasjoner
-Estruder kan gå 450mm maks
+Estruder kan gå 450mm maks.
 
-printer bed er 200 X 200mm ca
+printer bed er 200 X 200mm ca.
 
-vi instiller den på 150 X 150mm
+vi instiller den på 150 X 150mm.
 
-Maks høyde er satt til 190mm
+Maks høyde er satt til 190mm.
 
 
 
