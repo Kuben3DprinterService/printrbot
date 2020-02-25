@@ -35,3 +35,5 @@ Maks høyde er satt til 190mm.
 
 ## Ting som må fikses
 
+hva skjer gutta 
+
