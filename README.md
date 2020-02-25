@@ -37,6 +37,8 @@ Maks høyde er satt til 190mm.
 
 Jeg er inne på notepadd
 
+hei
+
 <<<<<<< HEAD
 =======
 
